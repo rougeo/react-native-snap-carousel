@@ -8,7 +8,7 @@
 	},
 	"dependencies": {
 		"react": "16.2.0",
-		"react-native": "0.52.x",
+		"react-native": "0.60.0",
 		"react-native-linear-gradient": "2.4.0",
 		"react-native-snap-carousel": "file:../"
 	},
